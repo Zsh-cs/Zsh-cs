@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ 🌱 I’m currently majored in computer science.
++ 🌱 I’m currently majored in **Computer Science**.
 + 🔭 I have a strong interest in Java backend development.
 
 ### 📊 Programming & Tools
